@@ -1,7 +1,4 @@
-<img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="auto"/>
-
-
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 
 # <h1 align="center">Hi there, I'm <a src="[https://abhishek.id/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
