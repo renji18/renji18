@@ -38,9 +38,6 @@
     <a href="https://firebase.google.com/" target="_blank"> <img height="35" src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img height="35" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img height="35" src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.jenkins.io" target="_blank"> <img height="35" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img height="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img height="35" src="https://img.icons8.com/color/48/000000/spring-logo.png"/></a>
 </p>
 
 <br />
@@ -50,13 +47,7 @@
 <img alt="Aadarsh Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renji18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <p align="right"><b>Credits:</b> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Github Readme Stats</a></p>
 
-<!--
-  <a href="https://github.com/echoabhishek/github-readme-stats"><img alt="Abhishek Arora's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=echoabhishek&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  <br />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=echoabhishek&repo=echoabhishek.github.io&theme=react&count_private=true" />
--->
+
 
 <br />
 
@@ -66,18 +57,3 @@
   <a href = "https://www.instagram.com/echo.abhishek/" target="_blank"><img height="35" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
-
-<!--
-**echoabhishek/echoabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
