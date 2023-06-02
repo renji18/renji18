@@ -1,7 +1,6 @@
+<p align="center"><img src="[https://uploads-ssl.webflow.com/625540b970bc1b4035617258/626a7866eb0430247bc88761_610288936552667669ff1628_EdBXmOIj5SYIXWYHsaFgGCYveE_O0hb4NcZDrYgNTsSsEi9AIk0H01sUqyZOXlrV1NOuVnbOtTI4OZKwZGp-dQEK0tI-v2N0mYJY-nvGfJ5aVLz3Oy8OA_16w-l9IXiIhFKW9lKL.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" alt="gif"></p>
 
 # <h1 align="center">Hi there, I'm <a src="[https://abhishek.id/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-<p align="center"><img src="https://uploads-ssl.webflow.com/625540b970bc1b4035617258/626a7866eb0430247bc88761_610288936552667669ff1628_EdBXmOIj5SYIXWYHsaFgGCYveE_O0hb4NcZDrYgNTsSsEi9AIk0H01sUqyZOXlrV1NOuVnbOtTI4OZKwZGp-dQEK0tI-v2N0mYJY-nvGfJ5aVLz3Oy8OA_16w-l9IXiIhFKW9lKL.gif" alt="gif"></p>
 
 ## About Me
 
