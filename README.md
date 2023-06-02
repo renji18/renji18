@@ -10,7 +10,7 @@
 -  ♦ I have worked with Cognizant and JPMorgan Chase.
 - 🌱 I’m currently learning Data Science and DSA.
 - 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
-- ⚡ Fun fact: I love singing and invest consistently in cryptocurrencies ($BTC, $ETH, $DOT, $CHR).
+- ⚡ Fun fact: I love singing and football.
 - 💬 Ask me about Web Development, Android Development, Web3, Blockchain, Music or anything [here](https://topmate.io/aadarsh_jha10)
 - 📫 You can reach me out via [aadarshjha1401@gmail.com](mailto:aadarshjha1401@gmail.com)
 - 📫 How to find me:
@@ -48,7 +48,7 @@
 
 ## 📊 My Github Stats
 
-<img alt="Abhishek Arora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=echoabhishek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Aadarsh Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=echoabhishek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <p align="right"><b>Credits:</b> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Github Readme Stats</a></p>
 
 <!--
