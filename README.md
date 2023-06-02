@@ -1,12 +1,10 @@
 
-<!-- <img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="auto"/>
+ <img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="auto"/>
 <h1 align="center">Hi there, I'm <a src="[https://abhishek.id/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
 
 # <h1 align="center">Hi there, I'm <a src="[https://abhishek.id/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-
-- 🕸 I've also designed and delivered a comprehensive web development course, focusing on in-demand technologies like React Js, Tailwind Css and Express Js to 15-20 students at Maharaja Sayajirao University.<br>- 
 
 ## About Me
 
