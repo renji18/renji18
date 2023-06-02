@@ -6,8 +6,7 @@
 
 - 🌊 I'm from India.
 - 🔭 I’m currently working as an React Developer Intern at [Kinderpass](https://mykinderpass.com).
-- 🕸 I started my career as a big data engineer but found web development more interesting.
--  ♦ I have worked with Cognizant and JPMorgan Chase.
+- 🕸 I've also designed and delivered a comprehensive web development course, focusing on in-demand technologies like React Js, Tailwind Css and Express Js to 15-20 students at Maharaja Sayajirao University.
 - 🌱 I’m currently learning Data Science and DSA.
 - 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
 - ⚡ Fun fact: I love singing and football.
