@@ -1,4 +1,4 @@
-<p align="center"><img src="[https://uploads-ssl.webflow.com/625540b970bc1b4035617258/626a7866eb0430247bc88761_610288936552667669ff1628_EdBXmOIj5SYIXWYHsaFgGCYveE_O0hb4NcZDrYgNTsSsEi9AIk0H01sUqyZOXlrV1NOuVnbOtTI4OZKwZGp-dQEK0tI-v2N0mYJY-nvGfJ5aVLz3Oy8OA_16w-l9IXiIhFKW9lKL.gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" alt="gif"></p>
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif"></p>
 
 <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 
