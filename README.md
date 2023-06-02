@@ -1,25 +1,22 @@
 
 <img width="100%" src="https://i.imgur.com/iXuL1HG.png" height="auto"/>
-<h1 align="center">Hi there, I'm <a src="https://abhishek.id/" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm <a src="[https://abhishek.id/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## About Me
 
 - 🌊 I'm from India.
-- 🔭 I’m currently working as an Engineering Manager at [Tanla Solutions](https://www.tanla.com/).
+- 🔭 I’m currently working as an React Developer Intern at [Kinderpass](https://mykinderpass.com).
 - 🕸 I started my career as a big data engineer but found web development more interesting.
 -  ♦ I have worked with Cognizant and JPMorgan Chase.
-- 👯 I publish wesbites for my friends and family in my part time. [GGS](https://ggssachdeva.com/), [Kitchen Kraft](http://kitchenkraftkota.com/), [Greenleap Robotics](https://www.greenleaprobotics.com/) and [Kinderpass](https://mykinderpass.com) are a few of them.
-- 🌱 I’m currently learning Deep Learning and NLP.
-- 📑 My work portfolio is available at [abhishek.id](https://abhishek.id/).
+- 🌱 I’m currently learning Data Science and DSA.
+- 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
 - ⚡ Fun fact: I love singing and invest consistently in cryptocurrencies ($BTC, $ETH, $DOT, $CHR).
-<!-- 
-- 🤔 I’m looking for VueJS / blockchain devs to write tutorials for [Dot Leap](https://dotleap.com)!  -->
-- 💬 Ask me about Web Development, Data Science, Machine Learning, Web3, Blockchain, Music or anything [here](https://topmate.io/abhishekarora)
-- 📫 You can reach me out via [mail2abhishekarora@gmail.com](mailto:mail2abhishekarora@gmail.com)
+- 💬 Ask me about Web Development, Android Development, Web3, Blockchain, Music or anything [here](https://topmate.io/aadarsh_jha10)
+- 📫 You can reach me out via [aadarshjha1401@gmail.com](mailto:aadarshjha1401@gmail.com)
 - 📫 How to find me:
-  - 🤙 [TopMate](https://topmate.io/abhishekarora)
-  - 📧 [Mail](mailto:mail2abhishekarora@gmail.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/echoabhishek/)
+  - 🤙 [TopMate](https://topmate.io/aadarsh_jha10)
+  - 📧 [Mail](mailto:aadarshjha1401@gmail.com)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-jha-b74330240)
   - 📹 [Instagram](https://www.instagram.com/echo.abhishek/)
 
 <br />
