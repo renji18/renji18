@@ -47,7 +47,7 @@
 
 ## 📊 My Github Stats
 
-<img alt="Aadarsh Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=echoabhishek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Aadarsh Jha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renji18&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 <p align="right"><b>Credits:</b> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">Github Readme Stats</a></p>
 
 <!--
@@ -63,7 +63,6 @@
 ## Connect with me:
 <p align="left">
   <a href = "https://www.linkedin.com/in/echoabhishek/" target="_blank"><img height="35" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href = "https://twitter.com/echo_abhi" target="_blank"><img height="35" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
   <a href = "https://www.instagram.com/echo.abhishek/" target="_blank"><img height="35" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
