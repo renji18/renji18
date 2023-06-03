@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="gif"></p>
 
-# <h1 align="center">👋 Hi there, I'm <a src="[[https://abhishek.id](https://aadarsh-jha-portfolio.netlify.app)/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# <h1 align="center">👋 Hi there, I'm <a src="[[https://aadarsh.id](https://aadarsh-jha-portfolio.netlify.app)/](https://aadarsh-jha-portfolio.netlify.app/)" target="_blank">Aadarsh</a>! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ## About Me
 
@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Data Science and DSA.
 - 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
 - ⚡ Fun fact: I love singing and football.
-- 💬 Ask me about Web Development, Android Development, Web3, Blockchain, Music or anything [here](https://topmate.io/aadarsh_jha10)
+- 💬 Ask me about Web Development, App Development, Web3, Blockchain, Music or anything [here](https://topmate.io/aadarsh_jha10)
 - 📫 You can reach me out via [aadarshjha1401@gmail.com](mailto:aadarshjha1401@gmail.com)
 - 📫 How to find me:
   - 🤙 [TopMate](https://topmate.io/aadarsh_jha10)
