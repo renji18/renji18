@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌊 I'm from India.
-- 🔭 I’m currently working as a React Developer Intern at [Kinderpass](https://mykinderpass.com).
+- 🔭 I’m just finished my internship working as a React Developer Intern at [Kinderpass](https://mykinderpass.com).
 - 👯 I've also designed and delivered a comprehensive web development course to a batch of 15-20 students at [Maharaja Sayajirao University](https://msubaroda.ac.in/).
 - 🌱 I’m currently learning Data Science and DSA.
 - 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
