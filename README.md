@@ -6,16 +6,15 @@
 
 - 🌊 I'm from India.
 - 🔭 I’m just finished my internship working as a React Developer Intern at [Kinderpass](https://mykinderpass.com).
-- 👯 I've also designed and delivered a comprehensive web development course to a batch of 15-20 students at [Maharaja Sayajirao University](https://msubaroda.ac.in/).
-- 🌱 I’m currently learning Data Science and DSA.
+- 👯 I've also designed and delivered a comprehensive web development course to a batch of 15-20 students at [Maharaja Sayajirao University](https://msubaroda.ac.in/) and am currently doing the same for 2nd year students at [Parul University](https://paruluniversity.ac.in/).
+- 🌱 I’m currently learning Data Analysis and DSA.
 - 📑 My work portfolio is available at [aadarsh.portfolio](https://aadarsh-jha-portfolio.netlify.app/).
 - ⚡ Fun fact: I love singing and football.
-- 💬 Ask me about Web Development, App Development, Web3, Blockchain, Music or anything [here](https://topmate.io/aadarsh_jha10)
+- 💬 Ask me about Web Development, App Development, Web3, Blockchain, Music or anything [here](https://www.linkedin.com/in/aadarshJha1401/)
 - 📫 You can reach me out via [aadarshjha1401@gmail.com](mailto:aadarshjha1401@gmail.com)
 - 📫 How to find me:
-  - 🤙 [TopMate](https://topmate.io/aadarsh_jha10)
   - 📧 [Mail](mailto:aadarshjha1401@gmail.com)
-  - 💼 [LinkedIn](https://www.linkedin.com/in/aadarsh-jha-b74330240)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/aadarshJha1401/)
   - 📹 [Instagram](https://www.instagram.com/renji_riverstone/)
 
 
