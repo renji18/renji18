@@ -6,7 +6,7 @@
 
 - 🌊 I'm from India.
 - 🔭 I’m working as a Full Stack Developer Intern at [It's Forever](https://www.itsforever.in/).
-- 🌱 Currently exploring DevOps and DSA.
+- 🌱 Currently exploring System Design and DSA.
 - 📑 My work portfolio is available at [aadarsh.portfolio](https://developer-aadarsh-jha.vercel.app/).
 - ⚡ Fun fact: I love singing and football.
 - 💬 Ask me about Web Development, App Development, Music or anything [here](https://www.linkedin.com/in/aadarshJha1401/)
