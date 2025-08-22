@@ -5,7 +5,7 @@
 ## About Me
 
 - 🌊 I'm from India.
-- 🔭 I’m working as a Full Stack Developer Intern at [It's Forever](https://www.itsforever.in/).
+- 🔭 I’m working as a Full Stack Developer at [Growception Media](https://growception.com/).
 - 🌱 Currently exploring System Design and DSA.
 - 📑 My work portfolio is available at [aadarsh.portfolio](https://developer-aadarsh-jha.vercel.app/).
 - ⚡ Fun fact: I love singing and football.
